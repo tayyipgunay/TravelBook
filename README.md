@@ -1,4 +1,3 @@
-Aşağıda, bu proje için örnek bir README dosyası bulabilirsiniz:
 
 ---
 
